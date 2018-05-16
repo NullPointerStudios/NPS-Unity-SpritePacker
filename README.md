@@ -13,3 +13,7 @@ Unity script used to generate sprite sheets from individual sprite assets
 5. Add your sprites to the Sprites array.
 6. Click `Generate Sheet`!
 7. A sprite sheet will be generated containing all of the sprites you provided in the  order they were in the array.
+
+## Notes
+
+This sprite sheet generator will work for any file format that unity supports. You can combine PNG's and PSD's with no problem whatsoever.
