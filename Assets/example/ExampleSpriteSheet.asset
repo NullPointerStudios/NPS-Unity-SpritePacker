@@ -11,7 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 311929b136f69914c99aba55f47f5d20, type: 3}
   m_Name: ExampleSpriteSheet
   m_EditorClassIdentifier: 
-  sprites: []
-  targetPath: 
+  sprites:
+  - {fileID: 21300000, guid: 7a0b71fe7ddd80e4ca6fce2e77632758, type: 3}
+  - {fileID: 21300000, guid: b4bfc4feef392924d8695e6f42d6d8a8, type: 3}
+  - {fileID: 21300000, guid: 0d40349a173db014a8a4d04d28b0752a, type: 3}
+  - {fileID: 21300000, guid: 8b89f4cde7c288043904c40f319757c2, type: 3}
+  - {fileID: 21300000, guid: 4c85ce0ee16d20f49b04b79befaf705d, type: 3}
+  targetPath: Assets/example/ExampleSpriteSheet.png
   usePowerOf2: 0
   forceSquareSprites: 0
